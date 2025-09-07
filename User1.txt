@@ -1,1 +1,1 @@
-ID: User1, Credits: 200
+ID: User1,200
